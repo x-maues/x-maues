@@ -7,9 +7,16 @@
 
 I'm a blockchain developer weaving **code** and **magic** into decentralized realms.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100">
-</p>
+<svg width="600" height="200">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text fill="url(#gradient)" font-size="60" font-family="Arial" x="10" y="65">Welcome, Traveler!</text>
+</svg>
+
 
 ## Skills
 
