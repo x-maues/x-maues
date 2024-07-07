@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100">
-  <img src="https://giphy.com/embed/Jd3DUUfoSZ2q5hMzq3" width="384" height="480" <p><a href="https://giphy.com/gifs/dragon-fantasy-knight-Jd3DUUfoSZ2q5hMzq3">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/Jd3DUUfoSZ2q5hMzq3" width="384" height="480" ><p><a href="https://giphy.com/gifs/dragon-fantasy-knight-Jd3DUUfoSZ2q5hMzq3">via GIPHY</a></p>
 </p>
 
 
