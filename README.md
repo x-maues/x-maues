@@ -6,6 +6,7 @@
 ## About Me
 
 I'm a blockchain developer weaving **code** and **magic** into decentralized realms.
+Or that's what I like to think I do.
 <pre>
                                              ___.....___
                                       _.-'"""           """``--._
