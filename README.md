@@ -1,7 +1,7 @@
 # Welcome, Traveler!
 
 <p align="center">
- <div style="width:100%;height:0;padding-bottom:125%;position:relative;"><img src="https://giphy.com/embed/Jd3DUUfoSZ2q5hMzq3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/dragon-fantasy-knight-Jd3DUUfoSZ2q5hMzq3"></a></p>
+  <img src="https://media.giphy.com/media/Jd3DUUfoSZ2q5hMzq3/giphy.gif" width="384" height="480">
 </p>
 
 ## About Me
