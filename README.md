@@ -7,6 +7,17 @@
 
 I weave **code** and **magic** into decentralized realms.
 Or that's what I like to think I do.
+
+</pre>
+## I am into
+
+- Full Stack Dev
+- Smart Contracts
+- Core Blockchain
+- DeFi
+- Web3 in general
+- Fantasy World Building
+
 <pre>
                                   _
                         .-.      / \        _
@@ -23,17 +34,6 @@ Or that's what I like to think I do.
  @88:::&(&8&&8::JGS:&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::
  `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8::::::'
   `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::'
-
-
-</pre>
-## I am into
-
-- Full Stack Dev
-- Smart Contracts
-- Core Blockchain
-- DeFi
-- Web3 in general
-- Fantasy World Building
 
 <p align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100">
