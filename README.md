@@ -8,7 +8,6 @@
 I weave **code** and **magic** into decentralized realms.
 Or that's what I like to think I do.
 
-</pre>
 ## I am into
 
 - Full Stack Dev
@@ -34,7 +33,8 @@ Or that's what I like to think I do.
  @88:::&(&8&&8::JGS:&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::
  `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8::::::'
   `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::'
-
+</pre>
+  
 <p align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100">
 </p>
