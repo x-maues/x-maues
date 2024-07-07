@@ -42,7 +42,8 @@ Or that's what I like to think I do.
 ## Come, sit by the fire and share some tales
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://img.shields.io/twitter/follow/:user">
+
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
   </a>
   <a href="https://linkedin.com/in/yourusername">
