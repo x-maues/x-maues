@@ -10,16 +10,10 @@ I'm a blockchain developer weaving **code** and **magic** into decentralized rea
 <!-- Creative Colorful Section -->
 <div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px; text-align: center;">
 
-  <!-- Title with Gradient Text -->
-  <svg width="600" height="80">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff4e50;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#f9d423;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text fill="url(#gradient)" font-size="36" font-family="Arial" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Creative Section</text>
-  </svg>
+  <!-- Title with Colorful Text -->
+  <h2>
+    <span style="background: linear-gradient(to right, #ff4e50, #f9d423); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 36px;">Creative Section</span>
+  </h2>
 
   <!-- Text Description -->
   <p style="font-size: 18px; margin-top: 10px;">Expressing creativity with colors, images, and icons!</p>
@@ -34,6 +28,7 @@ I'm a blockchain developer weaving **code** and **magic** into decentralized rea
   </div>
 
 </div>
+
 
 
 ## Skills
