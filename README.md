@@ -1,7 +1,7 @@
 # Welcome, Traveler!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Jd3DUUfoSZ2q5hMzq3/giphy.gif" width="100" height="100">
+  <img src="https://media.giphy.com/media/Jd3DUUfoSZ2q5hMzq3/giphy.gif" width="384" height="480">
 </p>
 
 ## About Me
