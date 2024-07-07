@@ -26,11 +26,13 @@ Or that's what I like to think I do.
 
 
 </pre>
-## Skills
+## I am into
 
-- Blockchain Development
+- Full Stack Dev
 - Smart Contracts
-- Web3
+- Core Blockchain
+- DeFi
+- Web3 in general
 - Fantasy World Building
 
 <p align="center">
