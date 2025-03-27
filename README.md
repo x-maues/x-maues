@@ -1,7 +1,7 @@
 # Heyy, Traveler
 
 
-<img src='https://giphy.com/gifs/muterecords-electronic-music-haai-bodies-of-water-aGzKLdSaqESgfUczkB.webp'>
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtqMXQycXJuajZhYzZpNnlucnZsb21kYW84ZzFlb2lyYmo0eW5yeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Sjz59KuKb3KGiE8Cz/giphy.webp'>
 
 ## About Me
 
