@@ -1,14 +1,13 @@
-# Heyy, Traveler
+# hello
 
 
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhndTR5NnFiYTV0eTB6ODB0OHd3ODQ0YzYxNzIxenlsYjJtaGltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b9BdAx0ocS8pbn398T/giphy.webp'>
 
-## About Me
+## im trying to work here
 
-I weave **code** and **magic** into decentralized realms.
-Or that's what I like to think I do.
+currently into blockchain tech
 
-## I am into
+## details
 
 - Full Stack Dev
 - Smart Contracts
@@ -39,10 +38,10 @@ Or that's what I like to think I do.
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100">
 </p>
 
-## Come, sit by the fire and share some tales
+## come, sit by the fire and share some tales
 
 <p align="center">
-  <a href="https://x.com/leif_runescribe">
+  <a href="https://x.com/0xmaues">
     <img src="https://img.shields.io/twitter/follow/:user">
   </a>
   <a href="https://www.linkedin.com/in/anantabh-sahu-0b289b200/">
