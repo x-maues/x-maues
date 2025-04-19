@@ -1,6 +1,3 @@
-![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hiMjg2OHlwdXAyMnBoMnE3amV3ZDRzZzBnNGJncWZ6a2dpZzF4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9oI4buwq7L7q6Tm5g7/giphy.gif)
-
-
 ##  `hello`
 
 i post my code here
@@ -22,7 +19,6 @@ i post my code here
   @88:::&(&8&&8::JGS:&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::
   `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8::::::'
    `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::'
-
 ```
 
 <div align="center">
