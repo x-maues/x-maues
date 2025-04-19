@@ -1,16 +1,50 @@
-## 🔮 `{ current_quests }`
+# < 0xmaues />
 
-- Exploring the arcane arts of **zero-knowledge proofs**
-- Building bridges between **digital and physical realities**
-- Crafting **decentralized worlds** that outlive their creators
-- Hunting rare **NFTs** in the depths of the blockchain
+![cyberpunk city](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM2M3doNDdmY2tmbjNmYnNqNWg3dHNyZGpyN2cyanl4cGo0NnFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrUOlEoYhJ6wog4hCJ/giphy.webp)
+
+```
+▓█████▄ ▓█████  ▄████▄   ▒█████  ▓█████▄ ▓█████  ██▀███  
+▒██▀ ██▌▓█   ▀ ▒██▀ ▀█  ▒██▒  ██▒▒██▀ ██▌▓█   ▀ ▓██ ▒ ██▒
+░██   █▌▒███   ▒▓█    ▄ ▒██░  ██▒░██   █▌▒███   ▓██ ░▄█ ▒
+░▓█▄   ▌▒▓█  ▄ ▒▓▓▄ ▄██▒▒██   ██░░▓█▄   ▌▒▓█  ▄ ▒██▀▀█▄  
+░▒████▓ ░▒████▒▒ ▓███▀ ░░ ████▓▒░░▒████▓ ░▒████▒░██▓ ▒██▒
+ ▒▒▓  ▒ ░░ ▒░ ░░ ░▒ ▒  ░░ ▒░▒░▒░  ▒▒▓  ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
+ ░ ▒  ▒  ░ ░  ░  ░  ▒     ░ ▒ ▒░  ░ ▒  ▒  ░ ░  ░  ░▒ ░ ▒░
+ ░ ░  ░    ░   ░        ░ ░ ░ ▒   ░ ░  ░    ░     ░░   ░ 
+   ░       ░  ░░ ░          ░ ░     ░       ░  ░   ░     
+ ░             ░                   ░                      
+```
+
+## ⚡ `blockchain_architect && reality_hacker`
+
+Crafting digital worlds from the void. Building decentralized systems while the rest of the world sleeps.
 
 ---
 
-<details>
-<summary><strong>🔥 Rest by the Fire</strong></summary>
+### ⟪ toolbox ⟫
 
-<pre>
+```js
+const skills = {
+  blockchain: {
+    core: ["Consensus Algorithms", "Protocol Design", "Cryptographic Primitives"],
+    contracts: ["Solidity", "Vyper", "Rust", "Zero-Knowledge Systems"],
+    frameworks: ["Hardhat", "Foundry", "Truffle"]
+  },
+  fullStack: {
+    frontend: ["React", "Next.js", "TypeScript", "Ethers.js/web3.js"],
+    backend: ["Node.js", "Go", "Rust", "GraphQL"],
+    infrastructure: ["AWS", "Docker", "IPFS"]
+  },
+  defi: ["AMMs", "Lending Protocols", "Synthetic Assets", "Oracles", "MEV"],
+  worldbuilding: ["Lore Creation", "System Design", "Narrative Architecture"]
+};
+```
+
+---
+
+### ༄ current_realm
+
+```
                                   _
                         .-.      / \        _
             ^^         /   \    /^./\__   _/ \
@@ -26,30 +60,44 @@
  @88:::&(&8&&8::JGS:&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::
  `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8::::::'
   `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::'
-</pre>
+```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100" />
-</p>
+<div align="center">
 
-</details>
+![pixel fire](https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif)
+
+</div>
+
+> "In the cryptographic shadows where consensus algorithms dance,  
+> I forge the unbreakable chains that will outlive their maker."
 
 ---
 
-> 🧙‍♂️ *"In a world of 1s and 0s, I craft the spells that bind them together."*
+### ↯ active_quests
+
+| Quest | Status | Description |
+|-------|--------|-------------|
+| 🔮 Zero-Knowledge Mastery | `IN_PROGRESS` | Bending mathematical proofs to create verifiable truths from hidden data |
+| 🌉 Cross-Chain Protocols | `RESEARCHING` | Building bridges between isolated digital realities |
+| 🧠 DAO Governance Models | `IMPLEMENTING` | Architecting decentralized decision systems that resist capture |
+| 🌌 On-Chain World | `DESIGNING` | Creating a persistent universe where digital entities evolve |
+| 🪄 DeFi 3.0 Mechanics | `EXPERIMENTING` | Exploring the next era of programmable finance |
 
 ---
 
-## 🌌 `[ find_me_in_the_void ]`
+### ⊰ console.log ⊱
 
-<p align="center">
-  <a href="https://x.com/0xmaues" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/0xmaues?style=social" alt="Follow on X/Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anantabh-sahu-0b289b200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+```
+> Writing code that speaks to machines in their language,
+> but tells stories humans can understand.
+> Digital architecture as poetry,
+> function and form in cryptographic harmony.
+```
 
-<p align="center"><i>Sometimes AFK, always on-chain.</i></p>
+---
+
+### ✧ find_me_in_the_void
+
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/0xmaues-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=w
