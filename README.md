@@ -1,6 +1,3 @@
-
----
-
 ## 🔮 `{ current_quests }`
 
 - Exploring the arcane arts of **zero-knowledge proofs**
@@ -32,7 +29,7 @@
 </pre>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM2M3doNDdmY2tmbjNmYnNqNWg3dHNyZGpyN2cyanl4cGo0NnFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrUOlEoYhJ6wog4hCJ/giphy.webp)" width="100" height="100" />
+  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100" height="100" />
 </p>
 
 </details>
@@ -47,7 +44,7 @@
 
 <p align="center">
   <a href="https://x.com/0xmaues" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/:user?style=social" alt="Follow on X/Twitter" />
+    <img src="https://img.shields.io/twitter/follow/0xmaues?style=social" alt="Follow on X/Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anantabh-sahu-0b289b200/" target="_blank">
