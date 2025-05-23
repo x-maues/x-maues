@@ -26,7 +26,7 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────┐
-│ > whoami --deep-dive                                        │
+│ > me --more                                                 │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗████████╗███████╗ │
@@ -36,10 +36,10 @@
 │  ██║██║ ╚████║   ██║   ███████╗██║  ██║███████╗███████║   ██║   ███████║ │
 │  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝ │
 │                                                             │
-│  [0x1] looking to join > great engineering teams            │
-│        └─ distributed systems │ high-impact products        │
+│  [0x1] looking to join great engineering teams              │
+│        └─ high-impact products | Web3                       │
 │                                                             │
-│  [0x2] build for scale                                      │
+│  [0x2] building for scale                                   │
 │                                                             │
 │                                                             │
 │  [0x3] smart contract auditing                              │
