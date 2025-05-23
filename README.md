@@ -1,3 +1,4 @@
+```
                          .-.      / \        _
              ^^         /   \    /^./\__   _/ \
            *        .--'\/\* \__/.      \ /    \  ^^  ___
@@ -57,9 +58,6 @@
 ┌─[~]
 └─$ echo "ship code. break things. repeat."
 ```
-<div align="center">
-![pixel fire](https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif)
-</div>
 
 <sub>*currently accepting interesting problems*</sub>
 <div align="center">
