@@ -1,17 +1,14 @@
-##  `hello`
+# 🌌
 
-i post my code here
----
-🌌
-```ascii
+```
                                    _
                          .-.      / \        _
              ^^         /   \    /^./\__   _/ \
            *        .--'\/\* \__/.      \ /    \  ^^  ___
-          / \_    */ ^      \/  *_  :'   /\/\  /\  __/   \
+          / \_    */ ^      \/    :'   /\/\  /\  *_/   \
          /    \  /    .'   */  /  \   ^ /    \/  \/ .`'\*/\
         /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ *    *:\ _
-       /    \/  \  */  \-' *_/.' ^ *   \*   .'\   */ \ .  *_/ \
+       /    \/  \  */  \-' /.' ^    \   .'\   / \ .  */ \
      /\  .-   `. \/     \ / -.   / \ -. `/   \ /    `._/  ^  \
     /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
   @/        `.  / /      `-.   /  .-'   / .   .'   \    \  \  .-  \%
@@ -22,12 +19,46 @@ i post my code here
 ```
 
 <div align="center">
-
-![pixel fire](https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif)
-
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="pixel fire" />
 </div>
 
 ---
 
+### `$ whoami`
 
+```bash
+> building things that matter
+> blockchain | full-stack | edge tech
+> coffee.exe --dark --no-sugar
+```
 
+### `$ ./current_stack`
+
+```javascript
+const tools = {
+  blockchain: ['solidity', 'rust', 'web3'],
+  backend: ['node', 'python', 'go'],
+  frontend: ['react', 'next', 'svelte'],
+  db: ['postgres', 'redis', 'mongo'],
+  cloud: ['aws', 'docker', 'k8s'],
+  niche: ['...you tell me']
+}
+```
+
+### `$ ls -la ./projects`
+
+```
+drwxr-xr-x  defi-protocol/     # yield farming, but smarter
+drwxr-xr-x  ai-marketplace/    # where models meet money  
+drwxr-xr-x  zero-knowledge/    # privacy-first everything
+drwxr-xr-x  edge-compute/      # distributed. always.
+```
+
+---
+
+```
+┌─[~]
+└─$ echo "ship code. break things. repeat."
+```
+
+<sub>*currently accepting interesting problems*</sub>
