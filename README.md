@@ -1,7 +1,3 @@
-# 🌌
-
-```
-                                   _
                          .-.      / \        _
              ^^         /   \    /^./\__   _/ \
            *        .--'\/\* \__/.      \ /    \  ^^  ___
@@ -17,41 +13,42 @@
   `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8::::::'
    `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::'
 ```
-
-<div align="center">
-<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="pixel fire" />
-</div>
-
 ---
 
-### `$ whoami`
+### `$ me`
 
 ```bash
-> building things that matter
-> blockchain | full-stack | edge tech
-> coffee.exe --dark --no-sugar
+> trying to ship impact
+> blockchain | full-stack | smart contracts
+> new-finance.exe --free --secure
 ```
 
-### `$ ./current_stack`
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│ > whoami --deep-dive                                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗████████╗███████╗ │
+│  ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝ │
+│  ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝█████╗  ███████╗   ██║   ███████╗ │
+│  ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██╔══╝  ╚════██║   ██║   ╚════██║ │
+│  ██║██║ ╚████║   ██║   ███████╗██║  ██║███████╗███████║   ██║   ███████║ │
+│  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝ │
+│                                                             │
+│  [0x1] looking to join > great engineering teams            │
+│        └─ distributed systems │ high-impact products        │
+│                                                             │
+│  [0x2] build for scale                                      │
+│                                                             │
+│                                                             │
+│  [0x3] smart contract auditing                              │
+│        └─ auditing │ formal verification │ bugs             │
+│                                                             │
+│  [0x4] exploring latest privacy tech                        │
+│        └─ ZK │ fhEVM                                        |
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-```javascript
-const tools = {
-  blockchain: ['solidity', 'rust', 'web3'],
-  backend: ['node', 'python', 'go'],
-  frontend: ['react', 'next', 'svelte'],
-  db: ['postgres', 'redis', 'mongo'],
-  cloud: ['aws', 'docker', 'k8s'],
-  niche: ['...you tell me']
-}
-```
-
-### `$ ls -la ./projects`
-
-```
-drwxr-xr-x  defi-protocol/     # yield farming, but smarter
-drwxr-xr-x  ai-marketplace/    # where models meet money  
-drwxr-xr-x  zero-knowledge/    # privacy-first everything
-drwxr-xr-x  edge-compute/      # distributed. always.
 ```
 
 ---
@@ -60,5 +57,11 @@ drwxr-xr-x  edge-compute/      # distributed. always.
 ┌─[~]
 └─$ echo "ship code. break things. repeat."
 ```
+<div align="center">
+![pixel fire](https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif)
+</div>
 
 <sub>*currently accepting interesting problems*</sub>
+<div align="center">
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="pixel fire" />
+</div>
